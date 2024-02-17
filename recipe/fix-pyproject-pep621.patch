@@ -9,7 +9,7 @@ diff --git a/pyproject.toml b/pyproject.toml
 +name = "py-ed25519-zebra-bindings"
 +description = "Python bindings for the ed25519-zebra RUST crate"
 +authors=[{name = "Stichting Polkascan (Polkascan Foundation)"}, {email = "legal@polkascan.org"}]
-+version = "0.1.11"
++version = "1.0.1"
 +repository = "https://github.com/polkascan/py-ed25519-zebra-bindings"
 +homepage = "https://github.com/polkascan/py-ed25519-zebra-bindings"
 +license = {file = "LICENSE"}
