@@ -9,8 +9,8 @@ source:
   url: https://github.com/polkascan/{{ name }}/archive/refs/tags/v{{ version }}.tar.gz
   sha256: af962f873db856d39adb0a2236595611bcd4be63a7bec9183c7ace0deb9b2be3
   patches:
-    - fix-Cargo-pep621.patch
-    - fix-pyproject-pep621.patch
+    # - fix-Cargo-pep621.patch
+    # - fix-pyproject-pep621.patch
 
 build:
   ignore_prefix_files: true
